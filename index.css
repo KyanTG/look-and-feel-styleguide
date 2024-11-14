@@ -1,5 +1,15 @@
 /* Generieke stijlen, waarschijnlijk hoeven jullie deze niet aan te passen */
 
+
+
+
+
+
+
+
+
+
+
 @layer styleguide {
   html, body {
     scroll-behavior: smooth;
@@ -42,5 +52,5 @@
       aspect-ratio: 1;
       background: #ccc;
     }
-  }
+  }  
 }
