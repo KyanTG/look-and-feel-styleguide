@@ -1,12 +1,37 @@
 /* Schrijf hier de verschillende stijlen, die gedeeld gaan
    worden door jullie projecten */
+
+
   body {
+
+    /* kleur */
+
     --standard-color: #222226;
     --second-standard-color: white;
     --third-standard-color: #666666;
     --changeable-color: #364BF7;
+
+    /* font */
+
     --main-font: "Archivo";
-    --secondary-font: "Martian Mono" } 
+    --secondary-font: "Martian Mono";
+  
+    /* font size headings */
+      
+    --font-size-xxl: 96px;
+    --font-size-xl: 64px;
+    --font-size-l: 48px;
+    --font-size-m: 32px;
+    --font-size-s: 24px;
+
+    /* letter-spacing */
+
+    --letter-spacing-main: -4%;
+    --letter-spacing-secondary: 0%;
+      
+  
+  
+  } 
    
    
    
